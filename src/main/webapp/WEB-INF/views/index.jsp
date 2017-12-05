@@ -177,7 +177,7 @@
 							<i class="ti-vector"></i>
 						</span>
 						<h3>Pixel Perfect</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<p>Fits perfectly with desktop, mobile , ipad. </p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -186,7 +186,7 @@
 							<i class="ti-tablet"></i>
 						</span>
 						<h3>Fully Responsive</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<p>Extremely fast built with latest cutting edge technology. </p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -194,8 +194,8 @@
 						<span class="icon">
 							<i class="ti-settings"></i>
 						</span>
-						<h3>Web Development</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Application Development</h3>
+						<p>Center for great application development. </p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -203,8 +203,8 @@
 						<span class="icon">
 							<i class="ti-ruler-pencil"></i>
 						</span>
-						<h3>Web Design</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Consulting</h3>
+						<p>Java, Python , R, IoT, AI. </p>
 					</div>
 				</div>
 			</div>
@@ -216,7 +216,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2>Our Latest Works</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p>Few of our latest works to help client achieve there goal.</p>
 				</div>
 			</div>
 
@@ -226,16 +226,16 @@
 						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_1.jpg); "> 
 							<a href="#" class="color-1">
 								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>View the Earth from the Outer Space</h2>
+									<span>Analytics</span>
+									<h2>Predict the future</h2>
 								</div>
 							</a>
 						</li>
 						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_2.jpg); ">
 							<a href="#" class="color-2">
 								<div class="case-studies-summary">
-									<span>Illustration</span>
-									<h2>Sleeping in the Cold Blue Water</h2>
+									<span>Machine learning</span>
+									<h2>Karma of humans is AI</h2>
 								</div>
 							</a>
 						</li>
@@ -245,15 +245,15 @@
 							<a href="#" class="color-3">
 								<div class="case-studies-summary">
 									<span>Illustration</span>
-									<h2>Building Builded by Man</h2>
+									<h2>Future is now</h2>
 								</div>
 							</a>
 						</li>
 						<li class="one-half animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg); ">
 							<a href="#" class="color-4">
 								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>The Peaceful Place On Earth</h2>
+									<span>Design</span>
+									<h2>Get amused by technology</h2>
 								</div>
 							</a>
 						</li>
@@ -261,16 +261,16 @@
 						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_5.jpg); "> 
 							<a href="#" class="color-5">
 								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>I'm Getting Married</h2>
+									<span>Information</span>
+									<h2>Never lag behind</h2>
 								</div>
 							</a>
 						</li>
 						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_6.jpg); ">
 							<a href="#" class="color-6">
 								<div class="case-studies-summary">
-									<span>Illustration</span>
-									<h2>Beautiful Flowers In The Air</h2>
+									<span>Visualize</span>
+									<h2>Give wings to your dream</h2>
 								</div>
 							</a>
 						</li>
@@ -293,8 +293,8 @@
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2>Fun Facts</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Great Facts</h2>
+					<p>People we reach and client we help each day.</p>
 				</div>
 			</div>
 
@@ -348,7 +348,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2>Products</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p>Future ready application for the world of tomorrow.</p>
 				</div>
 			</div>
 			<div class="row animate-box">
@@ -377,7 +377,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2>Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
+					<p>Be the first to know about the new application.</p>
 				</div>
 			</div>
 			<div class="row animate-box">
@@ -411,7 +411,10 @@
 				<div class="col-md-4">
 					<div class="gtco-widget">
 						<h3>About Us</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eos molestias quod sint ipsum possimus temporibus officia iste perspiciatis consectetur in fugiat repudiandae cum. Totam cupiditate nostrum ut neque ab?</p>
+						<p>
+						Eternity Tech is the leading provider of great softwares.
+						We are leading provider of AI , Machine Learning application, Scientific and research consulting firm.												
+						</p>
 					</div>
 				</div>
 
@@ -432,8 +435,8 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@gettemplates.co</a></li>
+							<li><a href="#"><i class="icon-phone"></i> +91 855 49 277 68</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> sandeepk9086@gmail.com</a></li>
 							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
 						</ul>
 					</div>
@@ -444,8 +447,8 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; 2017 EternityTech. All Rights Reserved.</small> 
+						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">eternityTech.co</a> Images: <a href="http://google.com/" target="_blank">google</a></small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
