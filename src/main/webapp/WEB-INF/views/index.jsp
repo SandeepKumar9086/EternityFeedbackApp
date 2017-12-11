@@ -73,14 +73,14 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Eternity <em>.</em></a></div>
+					<div id="gtco-logo"><a href="/home">Eternity <em>.</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li class="active"><a href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="about.html">Sign-in</a></li>
-						<li><a href="about.html">Login</a></li>
+						<li class="active"><a href="/home">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="/signIn">Sign-in</a></li>
+						<li><a href="#">Login</a></li>
 						<!-- <li class="has-dropdown">
 							<a href="services.html">Services</a>
 							<ul class="dropdown">
@@ -99,8 +99,8 @@
 								<li><a href="#">jQuery</a></li>
 							</ul>
 						</li> -->
-						<li><a href="portfolio.html">Portfolio</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Contact</a></li>
 					</ul>
 				</div>
 			</div>
