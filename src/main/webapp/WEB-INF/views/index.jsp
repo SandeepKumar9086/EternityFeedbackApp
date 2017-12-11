@@ -97,7 +97,7 @@
 								<li><a href="#">CSS3</a></li>
 								<li><a href="#">Sass</a></li>
 								<li><a href="#">jQuery</a></li>
-							</ul>
+							</ul> 
 						</li> -->
 						<li><a href="#">Portfolio</a></li>
 						<li><a href="#">Contact</a></li>

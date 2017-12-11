@@ -1,6 +1,6 @@
 package eternity.feedback.controller;
 
-import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Controller; 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,7 +13,7 @@ public class HomePageController {
 	@RequestMapping(value = {"/", "/home"}, method = RequestMethod.GET)
     public String index() {
 		return "index";       
-    }
+    } 
 
 	@PostMapping("/hello")
 	public String sayHello(@RequestParam("name") String name, Model model) {

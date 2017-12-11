@@ -10,7 +10,7 @@
 
 <title>Eternity Feedback</title>
 </head>
-<body>
+<body> 
   <h1>Register for feedback api</h1>
   <h3>Eternity Feedback API is Free!!</h3>
   <hr>
